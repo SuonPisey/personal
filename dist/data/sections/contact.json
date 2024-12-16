@@ -55,9 +55,9 @@
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+855 (17) 78-3867",
                     "links": [
-                        {"href": "tel:11234567890"}
+                        {"href": "tel:85517783867"}
                     ],
                     "icon": {
                         "img": null,
@@ -73,9 +73,9 @@
                 },
 
                 {
-                    "value": "mark.choi@email.com",
+                    "value": "suonpisey017@email.com",
                     "links": [
-                        {"href": "mailto:mark.choi@email.com"}
+                        {"href": "suonpisey017@email.com"}
                     ],
                     "icon": {
                         "img": null,

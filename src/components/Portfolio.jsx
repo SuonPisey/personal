@@ -41,7 +41,7 @@ function Portfolio() {
         <div className={`portfolio-wrapper`}>
             <div className={`portfolio`}  id={`portfolio`}>
                 <div className={`sidebar-wrapper`}>
-                    <NavSidebar/>
+                    <NavSidebar/>   
                 </div>
 
                 <div className={`content-wrapper`}>
