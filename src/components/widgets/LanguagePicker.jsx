@@ -25,7 +25,7 @@ function LanguagePicker({shrink}) {
 
     return (
         <div>
-            {canChangeLanguage && (
+            {/* {canChangeLanguage && (
                 <DropdownPicker selectedOption={_toDropdownOption(selectedLanguage)}
                                 availableOptions={availableLanguages.map(_toDropdownOption)}
                                 onOptionSelected={_onOptionSelected}
@@ -33,7 +33,7 @@ function LanguagePicker({shrink}) {
                                 tooltip={null}
                                 alwaysForceDropdown={true}
                                 shrink={shrink}/>
-            )}
+            )} */}
         </div>
     )
 }
